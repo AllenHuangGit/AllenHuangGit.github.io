@@ -11,7 +11,7 @@ My name is **Anlun Huang** (黄安伦). You can call me **Allen**.
 
 I am a second-year Master’s student in the Department of Electrical and Computer Engineering at the **UC San Diego**, majoring in **Intelligent Systems, Robotics & Control**. Currently, I am a member of the **[Advanced Robotics and Controls Laboratory (ARClab)](https://ucsdarclab.com/)**, advised by **[Prof. Michael Yip](https://yip.eng.ucsd.edu/)**.
 
-Previously, I earned my Bachelor’s degree in Robotics Engineering from the **[Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/)**, where I worked with **[Prof. Sicong Liu](https://www.sustech.edu.cn/en/faculties/liusicong.html)** and **[Prof. Zheng Wang](https://scholar.google.com/citations?hl=en&user=2NSTu2EAAAAJ&view_op=list_works&sortby=pubdate)** on **Soft Robotics**.
+Previously, I earned my Bachelor’s degree in Robotics Engineering from the **[Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/)**, where I worked with **[Prof. Sicong Liu](https://www.sustech.edu.cn/en/faculties/liusicong.html)** and **[Prof. Zheng Wang](https://scholar.google.com/citations?hl=en&user=2NSTu2EAAAAJ&view_op=list_works&sortby=pubdate)** on **Soft Robotics**.
 
 
 ## **Research Interests**
