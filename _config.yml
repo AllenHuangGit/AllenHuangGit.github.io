@@ -22,7 +22,7 @@ repository               : "AllenHuangGit/AllenHuangGit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "4.jpg"
+  avatar           : "profile.png"
   name             : "Anlun (Allen) Huang"
   pronouns         : # example: "she/her"  
   bio              : "Robotics MSc student @ UCSD"
