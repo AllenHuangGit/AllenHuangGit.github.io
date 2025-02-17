@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Anlun Huang** (黄安伦). You can also call me **Allen**.
+Hi! My name is **Anlun Huang** (黄安伦). You can also call me **Allen**.
 
 I am a second-year Master’s student in the Department of Electrical and Computer Engineering at the **UC San Diego**, majoring in **Intelligent Systems, Robotics & Control**. Currently, I am a member of the **[Advanced Robotics and Controls Laboratory (ARClab)](https://ucsdarclab.com/)**, advised by **[Prof. Michael Yip](https://yip.eng.ucsd.edu/)**, working on **Robot Learning** and **Motion Planning**.
 
