@@ -23,11 +23,11 @@ repository               : "AllenHuangGit/AllenHuangGit.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Anlun (Allen) Huang"
+  name             : "Anlun Huang"
   pronouns         : # example: "she/her"  
   bio              : "Robotics MSc student @ UCSD"
   location         : "La Jolla, San Diego, USA"
-  employer         : "University of California San Diego"
+  employer         : "UC San Diego"
   uri              : # URL
   email            : "anh044@ucsd.edu" 
 
@@ -225,6 +225,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -282,7 +285,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
