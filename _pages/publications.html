@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<hr> <!-- Add this line to create a horizontal rule -->
-
 {% for post in site.publications reversed %}
+    <hr> <!-- Add this line to create a horizontal rule -->
     {% include archive-single.html %}
 {% endfor %}
 
