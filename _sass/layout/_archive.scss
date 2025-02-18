@@ -81,6 +81,18 @@ font-size: $type-size-5;
 }
 }
 
+.archive__item-links {
+margin-top: 0;
+margin-bottom: 0em;
+font-size: $type-size-5;
+
+& + p {
+    text-indent: 0;
+    margin-top: 0;
+    margin-bottom: 0em;
+} 
+}
+
 .archive__item-excerpt {
 margin-top: 0;
 font-size: $type-size-5;
