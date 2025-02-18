@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<hr> <!-- Add this line to create a horizontal rule -->
+
+{% for post in site.projects reversed %}
+    {% include archive-single.html %}
+{% endfor %}
+
+
+
