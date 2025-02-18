@@ -15,7 +15,9 @@ Previously, I earned my Bachelor’s degree in Robotics Engineering from the **[
 
 
 ## **Research Interests**
+
 I am passionate about **Embodied AI and Robot Learning**, focusing on:
+
 - **Robot Learning**: Reinforcement learning and imitation learning for humanoid robots loco-manipulation tasks.
 - **Motion Planning**: Neural network-based motion planning for robot manipulators, gradient-based optimization.
 - **Soft Robotics**: Learning-based modeling and control of continuum robots.
@@ -23,4 +25,5 @@ I am passionate about **Embodied AI and Robot Learning**, focusing on:
 I'm eager to apply my skills to **real-world robotic systems** to enhance **adaptability**, **efficiency**, and **robustness**.
 
 ## **Recent News**
+
 - **[2025/02]**: I am looking for internship and full-time opportunities in Robotics, starting from Summer 2025. Please feel free to reach out to me if you have any openings!
