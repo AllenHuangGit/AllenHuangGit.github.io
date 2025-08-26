@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is **Anlun Huang** (黄安伦). You can also call me **Allen**.
 
-I am a second-year Master’s student in the Department of Electrical and Computer Engineering at the **University of California San Diego (UCSD)**, majoring in **Intelligent Systems, Robotics & Control**. Currently, I am a member of the **[Advanced Robotics and Controls Laboratory (ARClab)](https://ucsdarclab.com/)**, advised by **[Prof. Michael Yip](https://yip.eng.ucsd.edu/)**, working on **Neural Motion Planning**.
+I am a second-year Master’s student in the Department of Electrical and Computer Engineering at the **University of California San Diego (UCSD)**, majoring in **Intelligent Systems, Robotics & Control**. Currently, I am a member of the **[Advanced Robotics and Controls Laboratory (ARClab)](https://ucsdarclab.com/)**, advised by **[Prof. Michael Yip](https://yip.eng.ucsd.edu/)**, working on **Robot learning and Neural Motion Planning**.
 
 Previously, I earned my Bachelor’s degree in Robotics Engineering from the **Southern University of Science and Technology (SUSTech)**, where I worked with **[Prof. Sicong Liu](https://scholar.google.com/citations?user=smJe-2IAAAAJ&hl=en)** and **[Prof. Zheng Wang](https://scholar.google.com/citations?hl=en&user=2NSTu2EAAAAJ&view_op=list_works&sortby=pubdate)** on **Soft Robotics**.
 
@@ -18,7 +18,7 @@ Previously, I earned my Bachelor’s degree in Robotics Engineering from the **S
 
 I am passionate about **Embodied AI and Robot Learning**, focusing on:
 
-<!-- - **Robot Learning**: Reinforcement learning and imitation learning for humanoid robots loco-manipulation tasks. -->
+- **Robot Learning**: Reinforcement learning and whole-body control for humanoid robots loco-manipulation.
 - **Neural Motion Planning**: Neural network-based motion planning for robot manipulators, gradient-based optimization.
 - **Soft Robotics**: Learning-based modeling and control of continuum robots.
 
@@ -26,4 +26,4 @@ I'm eager to apply my skills to **real-world robotic systems** to enhance **adap
 
 ## **Recent News**
 
-- **[2025/02]**: I am looking for internship and full-time opportunities in Robotics, starting from Summer 2025. Please feel free to reach out to me if you have any openings!
+- **[2025/02]**: I am keeping an eye out for internship and full-time opportunities in Robotics. Please feel free to reach out to me if you have any openings!
